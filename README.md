@@ -1,0 +1,1 @@
+This repository showcases a common error related to floating-point precision in Julia. The `bug.jl` file contains a function that demonstrates how comparisons near zero can be inaccurate due to the limited precision of floating-point numbers. The `bugSolution.jl` file provides a corrected version of the function that addresses these issues.
